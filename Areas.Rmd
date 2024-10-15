@@ -20,6 +20,6 @@ Area <- pi*r^2
 
 ```{r}
 lado<-3
-PerimetroCuadrado <- Lado^2
+AreaCuadrado <- Lado^2
 ```
 
